@@ -1,0 +1,22 @@
+.navbar{
+    max-width: 1650px;
+    height: 96px;
+    background-color:#ffffff;
+}
+.navbar .navbar-icon{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.navbar .navbar-icon ul{
+    display: flex;
+    gap:32px ;
+    max-width: 365px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.navbar .navbar-icon a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #000000;
+}
